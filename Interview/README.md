@@ -28,6 +28,9 @@
 - 还申请了哪里，申请了哪位教授
 
 # Ask Back - Examples
+
+经验贴：https://www.douban.com/group/topic/261198395/?_i=46105465928dfb8&dt_dapp=1
+
 ## ask professors
 - Could you tell me about your current projects and your research directions in the next few years?
 - How many PhD students your program would admit this year?
