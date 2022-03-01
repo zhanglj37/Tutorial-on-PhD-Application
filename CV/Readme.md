@@ -1,6 +1,28 @@
-http://sachaepskamp.com/
+# Great CV Examples
 
-https://alexchristensen.github.io/
+Sacha http://sachaepskamp.com/
 
-https://www.ktylerwilcox.me/
+Alex https://alexchristensen.github.io/
+
+Tyler https://www.ktylerwilcox.me/
+
+Ross https://github.com/Rjacobucci/CV/blob/master/rj_cv.pdf
+
+MJ https://drive.google.com/file/d/149eRAfH300P91Nd4hHjrEs9MhCNPmUdW/view
+
+Donny https://donaldrwilliams.github.io/
+
+Sam Trejo https://scholar.princeton.edu/sites/default/files/strejo/files/_trejo_cv.pdf
+
+# Cool Personal Websites
+
+Koven https://kovenyu.com/
+
+Yihui Xie https://yihui.org/
+
+Xiaokai Xia https://xiaokai.me/
+
+Andre https://yilinandrewang.com/
+
+Donny https://donaldrwilliams.github.io/
 
