@@ -27,3 +27,9 @@ Andre https://yilinandrewang.com/
 Donny https://donaldrwilliams.github.io/
 
 Jiageng Liu https://www.jiagengliu.com/
+
+How to build a personal website (in Chinese):
+
+https://www.lijinzhang.xyz/blog_190827_web.html
+
+统计之都公众号最近（2022.2）有篇推送
