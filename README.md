@@ -1,5 +1,5 @@
 
-https://zhanglj37.github.io/post/2022-03-03-tutorial-phd-app/
+https://lijinzhang.com/post/2022-03-03-tutorial-phd-app/
 
 # 前言
 
