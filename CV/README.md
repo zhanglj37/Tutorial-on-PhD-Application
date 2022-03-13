@@ -14,6 +14,12 @@ Donny https://donaldrwilliams.github.io/
 
 Sam Trejo https://scholar.princeton.edu/sites/default/files/strejo/files/_trejo_cv.pdf
 
+
+Latex CV template
+
+https://www.overleaf.com/latex/templates/tagged/cv
+
+
 # Cool Personal Websites
 
 Koven https://kovenyu.com/
@@ -30,8 +36,11 @@ Jiageng Liu https://www.jiagengliu.com/
 
 http://psychonetrics.org/
 
+
+
 How to build a personal website (in Chinese):
-https://www.lijinzhang.com/post/2022-03-08-web-develop/
+
+
+https://www.lijinzhang.com/post/2022-03-08-web-develop/ 
 
 https://mp.weixin.qq.com/s/AgCRO8BOUWym36M2lhCeTA
-
